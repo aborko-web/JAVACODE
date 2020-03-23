@@ -16,6 +16,9 @@ public class Student {
 	void display(){
 		System.out.println(rollno+" "+name+" "+fee);
 		}
+	//tester2
+	void display(){
+		System.ou
 	
 	
 	

@@ -19,6 +19,10 @@ public class Student {
 	//tester2
 	void display(){
 		System.ou
+		//developer
+		void display(){
+			System.ou
+		
 	
 	
 	
